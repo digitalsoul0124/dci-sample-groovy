@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1
+END
+Facility.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1/Facility.groovy
+END
+Loan.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1/Loan.groovy
+END
+Share.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1/Share.groovy
+END
+Company.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1/Company.groovy
+END
+SharePie.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/dci-sample/v1/src/jp/co/hatena/d/digitalsoul/loansyndicate/models/v1/SharePie.groovy
+END

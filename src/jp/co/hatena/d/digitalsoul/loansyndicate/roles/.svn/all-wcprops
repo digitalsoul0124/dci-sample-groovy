@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/dci-sample/src/jp/co/hatena/d/digitalsoul/loansyndicate/roles
+END
+Lender.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/21/trunk/dci-sample/src/jp/co/hatena/d/digitalsoul/loansyndicate/roles/Lender.groovy
+END
+AmountPie.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/dci-sample/src/jp/co/hatena/d/digitalsoul/loansyndicate/roles/AmountPie.groovy
+END
+PercentagePie.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/dci-sample/src/jp/co/hatena/d/digitalsoul/loansyndicate/roles/PercentagePie.groovy
+END

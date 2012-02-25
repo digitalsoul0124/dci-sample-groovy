@@ -1,0 +1,11 @@
+package jp.co.hatena.d.digitalsoul.loansyndicate.common;
+
+import org.codehaus.groovy.runtime.DefaultGroovyMethods;
+
+public class RoleUtil {
+
+    static <T> T assign(assignee, Class<T> role) {
+        assignee.metaClass.mixin role
+        assignee.asType role
+    }
+}
